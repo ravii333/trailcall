@@ -1,0 +1,7 @@
+birdnetlib>=0.17.0
+sounddevice>=0.4.6
+soundfile>=0.12.1
+librosa>=1.0.0
+tensorflow>=2.21.0
+audioread>=3.1.0
+requests>=2.31.0
